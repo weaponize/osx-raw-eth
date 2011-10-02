@@ -1,0 +1,3 @@
+packetcannon is code for crafting and blasting packets.
+
+Right now, the only thing here is a poc for raw ethernet frame reading and writing using bpf on Mac OS X.
